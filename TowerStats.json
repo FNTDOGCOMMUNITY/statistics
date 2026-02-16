@@ -477,25 +477,25 @@
             {
                 "Price": 0,
                 "Range": 12,
-                "Damage": 125,
+                "Damage": 200,
                 "Cooldown": 4
             },
             {
                 "Price": 10000,
                 "Range": 15,
-                "Damage": 150,
+                "Damage": 250,
                 "Cooldown": 3.5
             },
             {
                 "Price": 15000,
                 "Range": 18,
-                "Damage": 175,
+                "Damage": 300,
                 "Cooldown": 3
             },
             {
                 "Price": 25000,
                 "Range": 25,
-                "Damage": 215,
+                "Damage": 350,
                 "Cooldown": 3
             }
         ]
@@ -727,6 +727,88 @@
                 "Range": 20,
                 "Damage": 36,
                 "Cooldown": 0.05
+            }
+        ]
+    },
+    "Puppet": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://17802016570",
+        "Rarity": "Secret",
+        "PlacePrice": 10000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -1.9,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 500,
+                "Cooldown": 7
+            },
+            {
+                "Price": 15000,
+                "Range": 35,
+                "Damage": 600,
+                "Cooldown": 6
+            },
+            {
+                "Price": 20000,
+                "Range": 40,
+                "Damage": 700,
+                "Cooldown": 5.5
+            },
+            {
+                "Price": 25000,
+                "Range": 45,
+                "Damage": 800,
+                "Cooldown": 5
+            }
+        ]
+    },
+    "Endo": {
+        "Type": "Support",
+        "Image": "rbxassetid://17851638702",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "NoEnemyAttack": true,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.06
+            },
+            {
+                "Price": 1700,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.12
+            },
+            {
+                "Price": 2200,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.18
+            },
+            {
+                "Price": 2500,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.24
             }
         ]
     },
