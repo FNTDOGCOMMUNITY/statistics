@@ -1341,7 +1341,7 @@
         "Image": "rbxassetid://84537819819224",
         "Rarity": "Nightmare",
         "PlacePrice": 12750,
-        "Max": 3,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1351,27 +1351,66 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 750,
+                "Range": 17,
+                "Damage": 1250,
                 "Cooldown": 1.5
             },
             {
                 "Price": 17500,
-                "Range": 24,
-                "Damage": 1450,
-                "Cooldown": 1.5
+                "Range": 22,
+                "Damage": 1850,
+                "Cooldown": 1.2
             },
             {
                 "Price": 24576,
-                "Range": 27,
-                "Damage": 1865,
+                "Range": 23,
+                "Damage": 2465,
                 "Cooldown": 1
             },
             {
                 "Price": 30000,
-                "Range": 32,
-                "Damage": 2250,
+                "Range": 25,
+                "Damage": 3245,
                 "Cooldown": 0.8
+            }
+        ]
+    },
+     "Octopied Endo 02": {
+        "Type": "AOE",
+        "Image": "rbxassetid://100174855605745",
+        "Rarity": "Secret",
+        "PlacePrice": 6500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -1.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 450,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 7500,
+                "Range": 17,
+                "Damage": 600,
+                "Cooldown": 2
+            },
+            {
+                "Price": 8500,
+                "Range": 23,
+                "Damage": 850,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 10000,
+                "Range": 23,
+                "Damage": 1110,
+                "Cooldown": 1.2
             }
         ]
     },
