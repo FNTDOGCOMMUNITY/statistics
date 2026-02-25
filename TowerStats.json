@@ -1492,6 +1492,44 @@
             }
         ]
     },
+      "Kiken Mangle": {
+        "Type": "AOE",
+        "Image": "rbxassetid://18256011276",
+        "Rarity": "Cosmic",
+        "PlacePrice": 20000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 3000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 40000,
+                "Range": 20,
+                "Damage": 3500,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 50000,
+                "Range": 22,
+                "Damage": 4000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 75000,
+                "Range": 25,
+                "Damage": 5000,
+                "Cooldown": 1
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
