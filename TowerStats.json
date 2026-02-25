@@ -1414,6 +1414,45 @@
             }
         ]
     },
+     "Surf Wreck Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://115704126470630",
+        "Rarity": "Mythic",
+        "PlacePrice": 450,
+        "Max": 4,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 25,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 750,
+                "Range": 15,
+                "Damage": 30,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 1125,
+                "Range": 16,
+                "Damage": 35,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 1250,
+                "Range": 20,
+                "Damage": 40,
+                "Cooldown": 0.3
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
