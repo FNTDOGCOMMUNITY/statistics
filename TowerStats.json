@@ -1453,6 +1453,45 @@
             }
         ]
     },
+      "Pierced Foxy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://81618828284758",
+        "Rarity": "Secret",
+        "PlacePrice": 4550,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.4,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 750,
+                "Cooldown": 3
+            },
+            {
+                "Price": 7500,
+                "Range": 27,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 10000,
+                "Range": 30,
+                "Damage": 1350,
+                "Cooldown": 2.8
+            },
+            {
+                "Price": 12500,
+                "Range": 30,
+                "Damage": 1500,
+                "Cooldown": 2.6
+            }
+        ]
+    },
      "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
