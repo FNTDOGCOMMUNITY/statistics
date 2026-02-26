@@ -841,13 +841,13 @@
                 "Price": 1200,
                 "Range": 20,
                 "Damage": 31,
-                "Cooldown": 0.75
+                "Cooldown": 0.5
             },
             {
                 "Price": 1600,
                 "Range": 20,
                 "Damage": 32,
-                "Cooldown": 0.75
+                "Cooldown": 0.4
             }
         ]
     },
