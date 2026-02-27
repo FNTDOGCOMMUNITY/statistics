@@ -1531,7 +1531,7 @@
         ]
     },
        "Cupcake Cone": {
-        "Type": "AOE",
+        "Type": "Splash",
         "Image": "rbxassetid://111664355874207",
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
